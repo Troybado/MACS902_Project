@@ -1,4 +1,4 @@
-# Hybrid Authentication Demo (Classical TLS + Post-Quantum Login)
+# Classical TLS vs Post-Quantum Login
 
 This repository contains code snippets extracted from the project report.  
 It demonstrates two authentication approaches:
