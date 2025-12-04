@@ -1,4 +1,4 @@
-# Classical TLS vs Post-Quantum Login
+# Classical Traditional vs Post Quantum Crypto
 
 This repository contains code snippets extracted from the project report.  
 It demonstrates two authentication approaches:
